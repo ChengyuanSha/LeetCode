@@ -1,0 +1,26 @@
+Given an integer (signed 32 bits), write a function to check whether it is a power of 4.
+
+Example 1:
+
+Input: 16
+Output: true
+Example 2:
+
+Input: 5
+Output: false
+
+很快写出recursion写法
+```python
+class Solution:
+    def isPowerOfFour(self, num: int) -> bool:
+        if num != int(num): # not whole num
+            return False
+        if num == 1 or num == 4:
+            return True
+        elif num > 4:
+            return self.isPowerOfFour(num/4)
+        else:
+            return False
+```
+
+
