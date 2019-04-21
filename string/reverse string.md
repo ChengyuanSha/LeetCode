@@ -19,7 +19,7 @@ Output: ["h","a","n","n","a","H"]
 ```
 
 最开始写的:
-```
+```python
 class Solution:
     def reverseString(self, s: List[str]) -> None:
         """
