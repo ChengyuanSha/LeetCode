@@ -33,7 +33,7 @@ class Solution:
             maxIndex -= 1
 ```
 做了一点小的改进:
-```
+```python
         n, maxIndex = 0, len(s)-1
 
         while maxIndex > n:
