@@ -48,4 +48,8 @@ Otherwise, n & (n-1) != 0.
 
 For example, n =14 = 0b0000...1110, and (n - 1) = 13 = 0b0000...1101.
 
-
+```python
+class Solution:
+    def isPowerOfTwo(self, n) -> bool:
+        return n > 0 and ((n & (n-1) == 0))   
+```
