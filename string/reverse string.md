@@ -32,3 +32,12 @@ class Solution:
             n += 1
             maxIndex -= 1
 ```
+做了一点小的改进:
+```
+        n, maxIndex = 0, len(s)-1
+
+        while maxIndex > n:
+            s[n], s[maxIndex] = s[maxIndex], s[n]
+            n += 1
+            maxIndex -= 1
+```
