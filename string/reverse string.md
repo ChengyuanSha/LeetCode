@@ -32,7 +32,7 @@ class Solution:
             n += 1
             maxIndex -= 1
 ```
-做了一点小的改进:
+做了一点小的改进, 去掉啰嗦部分:
 ```python
         n, maxIndex = 0, len(s)-1
 
