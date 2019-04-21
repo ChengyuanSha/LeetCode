@@ -18,4 +18,17 @@ Input: ["H","a","n","n","a","h"]
 Output: ["h","a","n","n","a","H"]
 ```
 
-
+最开始写的:
+```
+class Solution:
+    def reverseString(self, s: List[str]) -> None:
+        """
+        Do not return anything, modify s in-place instead.
+        """
+        maxIndex = len(s) - 1
+        n = 0
+        while (n != maxIndex and maxIndex > n):
+            s[n], s[maxIndex] = s[maxIndex], s[n]
+            n += 1
+            maxIndex -= 1
+```
