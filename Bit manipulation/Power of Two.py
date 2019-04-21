@@ -1,3 +1,4 @@
+'''
 **231. Power of Two**
 
 Given an integer, write a function to determine if it is a power of two.
@@ -18,7 +19,7 @@ Input: 218
 Output: false
 
 最开始的想法: 用recursion
-```
+'''
 class Solution:
     def isPowerOfTwo(self, n) -> bool:
         if n != int(n): # not whole number
@@ -29,4 +30,4 @@ class Solution:
             return self.isPowerOfTwo(n/2)
         else:
             return False  
-```
+
