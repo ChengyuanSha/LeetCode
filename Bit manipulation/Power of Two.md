@@ -18,7 +18,7 @@ Input: 218
 Output: false
 
 最开始的想法: 用recursion
-```
+```python
 class Solution:
     def isPowerOfTwo(self, n) -> bool:
         if n != int(n): # not whole number
@@ -31,3 +31,7 @@ class Solution:
             return False  
 ```
 Time complexity = O(log n)
+
+看了discussion, 知道了bit的技巧:
+**bit operation**
+
