@@ -53,3 +53,8 @@ class Solution:
     def isPowerOfTwo(self, n) -> bool:
         return n > 0 and ((n & (n-1) == 0))   
 ```
+
+Time complexity = O(1)
+
+
+
