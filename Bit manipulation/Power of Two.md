@@ -18,7 +18,7 @@ Input: 218
 Output: false
 
 最开始的想法: 用recursion
-
+```
 class Solution:
     def isPowerOfTwo(self, n) -> bool:
         if n != int(n): # not whole number
@@ -29,5 +29,5 @@ class Solution:
             return self.isPowerOfTwo(n/2)
         else:
             return False  
-
+```
 Time complexity = O(log n)
