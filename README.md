@@ -1,5 +1,11 @@
 # LeetCode Record 
 
-[1] [Two Sum ](./hash table/Two Sum.md) 
+
+| #   | Title                                           | Solution                        |  
+|-----|-------------------------------------------------|---------------------------------|
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](./HashTable/TwoSum.md) |
+| T   | [T](htps://leetcode.com/problems/two-sum/)      | [python](./HashTable/TwoSum.md) |
+| T   | [T](htps://leetcode.com/problems/two-sum/)      | [python](./HashTable/TwoSum.md) |
+| T   | [T](htps://leetcode.com/problems/two-sum/)      | [python](./HashTable/TwoSum.md) |
 
 
