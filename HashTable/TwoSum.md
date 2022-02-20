@@ -11,6 +11,6 @@ class Solution:
 ```
 
 
-不足：
+Could Improve:   
 忘记了负数的情况，小修改后通过
 
