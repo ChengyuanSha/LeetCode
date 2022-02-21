@@ -1,5 +1,5 @@
 
-My solution:
+## My solution:
 ```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -11,6 +11,6 @@ class Solution:
 ```
 
 
-Could Improve:   
+## Could Improve:   
 忘记了负数的情况，小修改后通过
 

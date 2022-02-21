@@ -1,4 +1,4 @@
-My solution:
+## My solution:
 ```python
 import re
 
@@ -15,7 +15,7 @@ class Solution:
 ```
 
 
-Improvements:   
+## Improvements:   
 如果不能用re库也很容易，直接每一个 + 查找的长度看
 ```python
 class Solution(object):

@@ -1,5 +1,5 @@
 
-My solution:
+## My solution:
 ```python
 class Solution:
     def romanToInt(self, s: str) -> int:
@@ -36,7 +36,7 @@ class Solution:
         return num
 ```
 
-Could Improve:  
+## Could Improve:  
 
 ```python
 class Solution:
