@@ -1,21 +1,19 @@
 import re
 
 
-def longestCommonPrefix(strs) -> str:
-   common_prefix = []
-   i = 1
-   while i <= len(strs[0]):
-      j = 0
-      prefix = strs[0][0:i]
-      i += 1
-      for c, i in enumerate(strs):
-         if i.startswith(prefix):
-            j += 1
-         if j == len(strs) - 1:
-            common_prefix.append(prefix)
-   if common_prefix != []:
-      return max(common_prefix, key=len)
-   else:
-      return ""
+def mySqrt(x: int) -> int:
+    low, high = 0, x
+    while high >= low:
+        mid = int(low + (high - low) / 2)
+        power = mid * mid
+        if power > x:
+            high = mid - 1
+        elif power < x:
+            low = mid + 1
+        else:  # mid * mid == x or high == low:
+            return mid
+    return high
 
-longestCommonPrefix(["flower","flow","flight"])
+
+
+print(mySqrt(8))
