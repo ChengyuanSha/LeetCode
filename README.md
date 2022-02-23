@@ -13,7 +13,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                           | [py](general/containDuplicates.md)          | python dic (hashtable)              | :100:                           |
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                           | [py](pointers/MergeSortedArray.md)          | pointers                            | :o:                             |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                             | [py](DFS-BFS/number-of-islands.md)          | DFS/BFS                             | :o:                             |
-| T   | [T]()                                                                                             | [py](general/strStr.md)                     |                                     |                                 |
+| 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                     | [py](array/MeetingRooms.md)                 | Sorting                             | :100:                           |
 | T   | [T]()                                                                                             | [py](general/strStr.md)                     |                                     |                                 |
 
 :o: -- First time fail       
