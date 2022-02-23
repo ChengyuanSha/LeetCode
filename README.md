@@ -17,6 +17,6 @@
 :o: -- First time fail       
 :heavy_plus_sign: -- First time success but not optimal     
 :100: -- First time success and optimal    
-:heavy_exclamation_mark: -- classic question
-:heavy_check_mark: -- Retry success
-:small_red_triangle: --- Retry fail
+:heavy_exclamation_mark: -- classic question       
+:heavy_check_mark: -- Retry success      
+:small_red_triangle: --- Retry fail     
