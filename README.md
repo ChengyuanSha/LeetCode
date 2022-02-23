@@ -14,3 +14,4 @@
 | T   | [T](htps://leetcode.com/problems/two-sum/)                                                        | [py](general/strStr.md)                     |                                     |          |
 | T   | [T](htps://leetcode.com/problems/two-sum/)                                                        | [py](general/strStr.md)                     |                                     |          |
 
+:heavy_check_mark:
