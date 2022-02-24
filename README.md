@@ -18,7 +18,7 @@
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                                       | [py](BitManipulation/PowerofTwo.md)         | bit manipulation                    | :heavy_plus_sign:               |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)                                   | [py](BitManipulation/PowerofThree.md)       | loop, Integer Limitations           | :heavy_plus_sign:               |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               | [py](string/ValidPalindrome.md)             | string manipulation/ 2 pointers     | :100:                           |
-| T   | [T]()                                                                                             | [py](general/strStr.md)                     |                                     |                                 |
+| 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                 | [py](array/MergeIntervals.md)               | array sorting                       | :o:                             |
 | T   | [T]()                                                                                             | [py](general/strStr.md)                     |                                     |                                 |
 
 :o: -- First time fail       
@@ -27,3 +27,4 @@
 :heavy_exclamation_mark: -- classic question, attention        
 :heavy_check_mark: -- Retry success      
 :small_red_triangle: --- Retry fail     
+
