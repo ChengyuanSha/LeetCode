@@ -19,6 +19,11 @@
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)                                   | [py](BitManipulation/PowerofThree.md)       | loop, Integer Limitations           | :heavy_plus_sign:               |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               | [py](string/ValidPalindrome.md)             | string manipulation/ 2 pointers     | :100:                           |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                 | [py](array/MergeIntervals.md)               | array sorting                       | :o:                             |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/)                                         | [py](math/AddStrings.md)                    | num addition math                   | :o:                             |
+| T   | [T]()                                                                                             | [py](general/strStr.md)                     |                                     |                                 |
+| T   | [T]()                                                                                             | [py](general/strStr.md)                     |                                     |                                 |
+| T   | [T]()                                                                                             | [py](general/strStr.md)                     |                                     |                                 |
+| T   | [T]()                                                                                             | [py](general/strStr.md)                     |                                     |                                 |
 | T   | [T]()                                                                                             | [py](general/strStr.md)                     |                                     |                                 |
 
 :o: -- First time fail       
