@@ -1,6 +1,6 @@
 ## My solution 
 
-Time limit exceeded   
+Time limit exceeded O(2^n)    
 only recursion, did not think of memorization  
 ```python
 class Solution:
@@ -15,7 +15,7 @@ class Solution:
 
 ## Solution
 
-DP with recursion
+DP with recursion O(n)
 
 ```python
 class Solution:
