@@ -25,7 +25,7 @@
 | 412 | [fizz-buzz](https://leetcode.com/problems/fizz-buzz/)                                                   | [py](general/fizz-buzz.md)                  | condition/hashtable                 | :100:                                      |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                         | [py](linkedList/PalindromeLinkedList.md)    | stack/recursion/reverse in place    | :heavy_exclamation_mark: :heavy_plus_sign: |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                       | [py](hashTable/TopKElements.md)             | hashtable/heapq                     | :heavy_plus_sign:                          |
-| T   | [T]()                                                                                                   | [py](general/strStr.md)                     |                                     |                                            |
+| 54  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                           | [py](general/SpiralMatrix.md)               | condition                           | :o:                                        |
 | T   | [T]()                                                                                                   | [py](general/strStr.md)                     |                                     |                                            |
 
 :o: -- First time fail       
