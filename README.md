@@ -34,8 +34,8 @@
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                               | [py](backtrack/GenerateParentheses.md)                | backtrack with multiple condition   | :o:                                        |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                 | [py](general/MinimumAbsoluteDifference.md)            | Sort + 1 Traversal                  | :100:                                      |
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                     | [py](dynamicProgramming/LongestValidParentheses.md)   | DP/stack   hard!                    | :o:                                        |
-| T    | [T]()                                                                                                     | [py](general/strStr.md)                               |                                     |                                            |
-| T    | [T]()                                                                                                     | [py](general/strStr.md)                               |                                     |                                            |
+| 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                 | [py](stack/TrappingRainWater.md)                      | DP/stack   hard!                    | :o:                                        |
+| 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                 | [py](pointers/ValidPalindromeII.md)                   | 2 pointers                          | :o:                                        |
 | T    | [T]()                                                                                                     | [py](general/strStr.md)                               |                                     |                                            |
 
 :o: -- First time fail       
