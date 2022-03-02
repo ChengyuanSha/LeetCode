@@ -36,6 +36,11 @@
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                     | [py](dynamicProgramming/LongestValidParentheses.md)   | DP/stack   hard!                    | :o:                                        |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                 | [py](stack/TrappingRainWater.md)                      | DP/stack   hard!                    | :o:                                        |
 | 680  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                 | [py](pointers/ValidPalindromeII.md)                   | 2 pointers                          | :o:                                        |
+| 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                     | [py](general/PalindromeNumber.md)                     | math                                | :heavy_plus_sign:                                           |
+| T    | [T]()                                                                                                     | [py](general/)                                        |                                     |                                            |
+| T    | [T]()                                                                                                     | [py](general/strStr.md)                               |                                     |                                            |
+| T    | [T]()                                                                                                     | [py](general/strStr.md)                               |                                     |                                            |
+| T    | [T]()                                                                                                     | [py](general/strStr.md)                               |                                     |                                            |
 | T    | [T]()                                                                                                     | [py](general/strStr.md)                               |                                     |                                            |
 
 :o: -- First time fail       
