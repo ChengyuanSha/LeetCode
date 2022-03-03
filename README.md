@@ -42,7 +42,7 @@
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [py](hashTable/LongestSubstringWithoutRepeatingCharacters.md) | hashtable, sliding window           | :o:                                        |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                     | [py](hashTable/happy_number.md)                               | hashset                             | :100:                                      |
 | 187  | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)                                                 | [py](hashTable/RepeatedDNASequences.md)                       | hashtable                           | :100:                                      |
-| T    | [T]()                                                                                                                           | [py](hashTable/strStr.md)                                     |                                     |                                            |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                         | [py](hashTable/IsomorphicStrings.md)                          | 2 hashtable                         | :100:                                      |
 | T    | [T]()                                                                                                                           | [py](hashTable/strStr.md)                                     |                                     |                                            |
 
 :o: -- First time fail       
