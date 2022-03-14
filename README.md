@@ -47,8 +47,8 @@
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | [py](hashTable/ValidAnagram.md)                               | hastable                               | :100:                                      |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | [py](hashTable/GroupAnagrams.md)                              | hastable, default dic                  | :heavy_plus_sign:                          |
 | 359  | [LoggerRateLimiter](https://leetcode.com/problems/logger-rate-limiter/)                                                         | [py](hashTable/LoggerRateLimiter.md)                          | hastable                               | :100:                                      |
-| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/solution/)                                                                  | [py](hashTable/LRUCache.md)                                   | LinkedHashMap, ordered dic             | :o:                                            |
-| T    | [T]()                                                                                                                           | [py](hashTable/strStr.md)                                     |                                        |                                            |
+| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/solution/)                                                                  | [py](hashTable/LRUCache.md)                                   | LinkedHashMap, ordered dic             | :o:                                        |
+| 17   | [LetterCombinationsofaPhoneNumber](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                        | [py](hashTable/LetterCombinationsofaPhoneNumber.md)           | Backtrack                              | :o:                                        |
 | T    | [T]()                                                                                                                           | [py](hashTable/strStr.md)                                     |                                        |                                            |
 | T    | [T]()                                                                                                                           | [py](hashTable/strStr.md)                                     |                                        |                                            |
 | T    | [T]()                                                                                                                           | [py](hashTable/strStr.md)                                     |                                        |                                            |
@@ -66,4 +66,10 @@
 :heavy_exclamation_mark: -- classic question, attention        
 :heavy_check_mark: -- Retry success      
 :small_red_triangle: --- Retry fail     
+
+
+Need to work on：
+backtrack
+DP
+
 
