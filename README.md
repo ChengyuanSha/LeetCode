@@ -1,5 +1,4 @@
-# LeetCode Notes 
-
+# LeetCode Questions Prepare 
 
 | #    | Title                                                                                                                           | Solution                                                      | Approach                               | Comments                                   |  
 |------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------|--------------------------------------------|
@@ -56,7 +55,7 @@
 | 1275 | [FindWinneronaTicTacToeGame.md](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                               | [py](general/FindWinneronaTicTacToeGame.md.md)                | array manipulation                     | :heavy_plus_sign:                          |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)                                     | [py](hashTable/strStr.md)                                     | math                                   | :o:                                        |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | [py](array/BinarySearch.md)                                   | binary search 101                      | :100:                                      |
-| T    | [T]()                                                                                                                           | [py](hashTable/strStr.md)                                     |                                        |                                            |
+| 278  | [FirstBadVersion](https://leetcode.com/problems/first-bad-version/)                                                             | [py](array/FirstBadVersion.md.md)                             | binary search                          | :100:                                      |
 | T    | [T]()                                                                                                                           | [py](hashTable/strStr.md)                                     |                                        |                                            |
 | T    | [T]()                                                                                                                           | [py](hashTable/strStr.md)                                     |                                        |                                            |
 
@@ -73,3 +72,12 @@ backtrack
 DP
 
 
+
+# Interviewing Questions Prepare 
+
+## Front end 
+
+
+[REST API questions](FrontEnd_Interview_Questions/REST.md)     
+
+## Back end 
