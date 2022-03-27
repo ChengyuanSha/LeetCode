@@ -22,3 +22,23 @@ max(nums[i], max_current + nums[i])
 
 这里写错了，要注意是`nums[i]`和`max_current + nums[i]`比较， 如果是负数cur就会被set成`nums[i]`
 
+## Other Variants
+
+### Produce the maximum subarray:
+
+```python
+def maxSubArray(nums) -> int:
+    max_cur = max_glob = nums[0]
+    start_index = end_index = start_index_glob = 0
+    for i in range(1, len(nums)):
+        if nums[i] > max_cur + nums[i]:
+            max_cur = nums[i]
+            start_index = i
+        if nums[i] < max_cur + nums[i]:
+            max_cur = max_cur + nums[i]
+        if max_cur > max_glob:
+            max_glob = max_cur
+            end_index = i
+            start_index_glob = start_index
+    return nums[start_index_glob:end_index+1] # last index is not included in slicing
+```
