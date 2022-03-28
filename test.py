@@ -1,21 +1,26 @@
 
-def maxSum(arr, n, k):
-    i = 0
-    j = i + k
-    sum_glob = 0
-    while j <= n:
-        sum_cur = sum([arr[i] for i in range(i, j)])
-        sum_glob = max(sum_cur, sum_glob)
-        i += 1
+from typing import List
+
+def lengthOfLongestSubstringKDistinct(s: str, k: int) -> int:
+    i = 0 # left
+    j = 0 # right
+    count = {}
+    longest_substring = 0
+    while j < len(s):
+        # record unique key count in a hashtable
+        if s[j] in count:
+            count[s[j]] += 1
+        else:
+            count[s[j]] = 1
+        while len(count) > k: # shrink left when violation
+            count[s[i]] -= 1
+            if count[s[i]] == 0:
+                del count[s[i]]
+            i += 1
+        longest_substring = max(longest_substring, j - i + 1)
         j += 1
-    return sum_glob
+    return longest_substring
 
-
-
-
-
-
-arr = [1, 4, 2, 10, 2, 3, 1, 0, 20]
-k = 4
-n = len(arr)
-print(maxSum(arr, n, k))
+s = "eceba"
+k = 2
+print(lengthOfLongestSubstringKDistinct(s, k))
