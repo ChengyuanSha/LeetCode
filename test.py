@@ -1,19 +1,21 @@
 
-def maxSubArray(nums) -> int:
-    max_cur = max_glob = nums[0]
-    start_index = end_index = start_index_glob = 0
-    for i in range(1, len(nums)):
-
-        if nums[i] > max_cur + nums[i]:
-            max_cur = nums[i]
-            start_index = i
-        if nums[i] < max_cur + nums[i]:
-            max_cur = max_cur + nums[i]
-        if max_cur > max_glob:
-            max_glob = max_cur
-            end_index = i
-            start_index_glob = start_index
-    return nums[start_index_glob:end_index+1] # last index is not included in slicing
+def maxSum(arr, n, k):
+    i = 0
+    j = i + k
+    sum_glob = 0
+    while j <= n:
+        sum_cur = sum([arr[i] for i in range(i, j)])
+        sum_glob = max(sum_cur, sum_glob)
+        i += 1
+        j += 1
+    return sum_glob
 
 
-print(maxSubArray([5,4,-1,7,8]))
+
+
+
+
+arr = [1, 4, 2, 10, 2, 3, 1, 0, 20]
+k = 4
+n = len(arr)
+print(maxSum(arr, n, k))
