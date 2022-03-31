@@ -93,11 +93,6 @@ print(lengthOfLongestSubstringKDistinct(s, k))
 ```
 
 
-### String Permutations 
-
-
-
-
 ### Reference
 
 * https://www.youtube.com/watch?v=MK-NZ4hN7rs&ab_channel=RyanSchachte
