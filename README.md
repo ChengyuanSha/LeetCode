@@ -60,6 +60,7 @@
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                       | [py](array/MinimumSizeSubarraySum.md)                         | array, Dynamic Length sliding window      | :o:                                        |
 | 340  | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [py](array/LongestSubstringAtMostKDistinctChar.md)            | Dynamic Length sliding window + hashtable | :o:                                        |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                       | [py](hashTable/LinkedListCycle.md)                            | Hash table / slow&fast pointer            | :o:                                        |
+| 142  | [Linked List CycleII](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                  | [py](hashTable/LinkedListCycleII.md)                          | Hash table / slow&fast pointer            | :100:                                      |
 | T    | [T]()                                                                                                                                       | [py](hashTable/strStr.md)                                     |                                           |                                            |
 
 :o: -- First time fail       
