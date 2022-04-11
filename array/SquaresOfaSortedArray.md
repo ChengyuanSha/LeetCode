@@ -25,4 +25,20 @@ class Solution:
 
 Better solution: Two pointers
 
+retry success
 
+```python
+class Solution:
+    def sortedSquares(self, nums: List[int]) -> List[int]:
+        result = []
+        i = 0 # left
+        j = len(nums) - 1 # right
+        while i <= j:
+            if abs(nums[i]) < abs(nums[j]):
+                result.append(nums[j]**2)
+                j -= 1
+            else: # >=
+                result.append(nums[i]**2)
+                i += 1
+        return result[::-1]
+```
