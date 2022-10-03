@@ -78,10 +78,11 @@
 | 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                           | [py](BinaryTree/DiameterofBinaryTree.md)                      | Binary tree recursive                     | :o:                                        |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                     | [py](general/AddBinary.md)                                    | basic logic                               | :100:                                      |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                                   | [py](harray/RelativeSortArray.md)                             | loop, hashtable                           | :heavy_plus_sign:                          |
+| 198  | [House Robber](https://leetcode.com/problems/house-robber/)                                                                                 | [py](hashTable/strStr.md)                                     | DP                                        | :100:                                      |
 | T    | [T]()                                                                                                                                       | [py](hashTable/strStr.md)                                     |                                           |                                            |
 | T    | [T]()                                                                                                                                       | [py](hashTable/strStr.md)                                     |                                           |                                            |
+ | T    | [T]()                                                                                                                                       | [py](hashTable/strStr.md)                                     |                                           |                                            |
 
- 
 
 :o: -- First time fail       
 :heavy_plus_sign: -- First time success but not optimal     
@@ -97,9 +98,9 @@ DP
 
 # 14 Patterns in Leetcode
 
-[Sliding Window](14PatternsInLeetcode/slidingWindow.md)     
+[Sliding Window](CommonPatternsInLeetcode/slidingWindow.md)     
 
-[Fast & SlowPointers](14PatternsInLeetcode/Fast&SlowPointers.md)
+[Fast & SlowPointers](CommonPatternsInLeetcode/Fast&SlowPointers.md)
 
 
 # Interviewing Questions Prepare 
