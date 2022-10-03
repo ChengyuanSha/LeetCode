@@ -76,9 +76,12 @@
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                     | [py](BinaryTree/InvertBinaryTree.md)                          | Binary tree recursive                     | :o:                                        |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                             | [py](BinaryTree/SymmetricTree.md)                             | Binary tree recursive                     | :o:                                        |
 | 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                           | [py](BinaryTree/DiameterofBinaryTree.md)                      | Binary tree recursive                     | :o:                                        |
+| 67   | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                     | [py](general/AddBinary.md)                                     | basic logic                               | :100:                                      |
+| T    | [T]()                                                                                                                                       | [py](hashTable/strStr.md)                                     |                                           |                                            |
 | T    | [T]()                                                                                                                                       | [py](hashTable/strStr.md)                                     |                                           |                                            |
 | T    | [T]()                                                                                                                                       | [py](hashTable/strStr.md)                                     |                                           |                                            |
 
+ 
 
 :o: -- First time fail       
 :heavy_plus_sign: -- First time success but not optimal     
